@@ -781,7 +781,7 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#012f5b",
+              "color": "#888888",
               "text-align": "left"
             },
             ".mbr-text, .mbr-section-btn": {
